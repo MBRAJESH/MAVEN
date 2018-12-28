@@ -9,6 +9,7 @@ public class testData
 	public void testclas()
 	{
 		Reporter.log("hello rajesh",true);
+		Reporter.log("hi ", true);
 	}
 
 }
