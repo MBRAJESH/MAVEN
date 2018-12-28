@@ -5,12 +5,12 @@
       <![CDATA[hello rajesh]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="171" started-at="2018-12-27T07:24:18Z" finished-at="2018-12-27T07:24:18Z">
+  <suite name="Default suite" duration-ms="198" started-at="2018-12-28T04:28:45Z" finished-at="2018-12-28T04:28:45Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="171" started-at="2018-12-27T07:24:18Z" finished-at="2018-12-27T07:24:18Z">
+    <test name="Default test" duration-ms="198" started-at="2018-12-28T04:28:45Z" finished-at="2018-12-28T04:28:45Z">
       <class name="demo.testData">
-        <test-method status="PASS" signature="testclas()[pri:0, instance:demo.testData@29774679]" name="testclas" duration-ms="62" started-at="2018-12-27T07:24:18Z" finished-at="2018-12-27T07:24:18Z">
+        <test-method status="PASS" signature="testclas()[pri:0, instance:demo.testData@29774679]" name="testclas" duration-ms="46" started-at="2018-12-28T04:28:45Z" finished-at="2018-12-28T04:28:45Z">
           <reporter-output>
             <line>
               <![CDATA[hello rajesh]]>
@@ -18,6 +18,6 @@
           </reporter-output>
         </test-method> <!-- testclas -->
       </class> <!-- demo.testData -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
